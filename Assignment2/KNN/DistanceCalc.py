@@ -1,5 +1,6 @@
 
-from imports import math, np
+import math 
+import numpy as np
 
 #DISTANCE CALCULATION METHODS#
     
